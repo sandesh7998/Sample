@@ -1,0 +1,16 @@
+Security patch updates
+Best performance
+Shutdown button disable
+Impersonate account   |   sarasrepousr | repou$3r | r3p0u$r
+TLS 1.2 enabled
+Pre-Requisites installation
+Firewall disable
+IIS install
+IIS limits
+IIS logs
+ASP.NET framework registration
+ISAPI and CGI restrictions
+
+select * from errorhandling order by 1 desc
+
+Grant Select, Insert, update, delete, exec, view definition, alter to SEABUser
